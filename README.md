@@ -3,25 +3,25 @@
 
 <p align="center">
   <a href="https://conkara.me">
-    <img src="https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolyo" />
+    <img src="https://img.shields.io/badge/conkara.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolyo" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Bahatti1856S&style=for-the-badge&color=0e75b6&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme" alt="Profil görüntülenme" />
 </p>
 
 ---
 
-### 🧑‍💻 Hakkımda
+### Hakkımda
 
-- 🎓 **Akdeniz Üniversitesi** — Bilgisayar Programcılığı
-- 🔭 Şu an **Next.js + Supabase** ile kişisel verimlilik asistanı geliştiriyorum
-- 🧠 Obsidian tabanlı bir **"İkinci Beyin"** ve yapay zeka bellek sistemi üzerinde çalışıyorum
-- 👁️ **Python & OpenCV** ile görüntü işleme denemeleri yapıyorum
-- 🤖 Geliştirirken yapay zeka araçlarını (Claude Code, Cursor) aktif kullanıyorum
-- 🎮 Boş zamanlarımda CS2 ve Minecraft · 🏋️ spor salonu
+- **Akdeniz Üniversitesi** — Bilgisayar Programcılığı
+- Şu an **Next.js + Supabase** ile kişisel verimlilik asistanı geliştiriyorum
+- Obsidian tabanlı bir **"İkinci Beyin"** ve yapay zeka bellek sistemi üzerinde çalışıyorum
+- **Python & OpenCV** ile görüntü işleme denemeleri yapıyorum
+- Geliştirirken yapay zeka araçlarını (Claude Code, Cursor) aktif kullanıyorum
+- Boş zamanlarımda CS2, Minecraft ve spor salonu
 
 ---
 
-### 🛠️ Teknolojiler
+### Teknolojiler
 
 **Diller**
 
@@ -58,21 +58,21 @@
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+### Öne Çıkan Projeler
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
-| 🌐 [**Portfolyo**](https://conkara.me) | 3D animasyonlu, akıcı kaydırmalı kişisel portfolyo sitesi | Next.js · Three.js · Lenis |
-| 📅 **Asistan** | Kişisel dijital ajanda ve verimlilik asistanı | Next.js 16 · Supabase |
-| 🧠 **İkinci Beyin** | Obsidian vault + yapay zeka bellek sistemi | Python · Obsidian |
-| 👁️ [**OpenCV**](https://github.com/Bahatti1856S/OpenCV) | Görüntü işleme ve bilgisayarlı görü çalışmaları | Python · OpenCV |
-| 📝 [**CMS Deneme**](https://cmsdeneme123.vercel.app) | İçerik yönetim sistemi denemesi | TypeScript |
-| 🎨 **Color Palette** | Renk paleti oluşturucu | JavaScript |
-| 🔳 **QR Kod** | QR kod oluşturucu | HTML · JS |
+| [**Portfolyo**](https://conkara.me) | 3D animasyonlu, akıcı kaydırmalı kişisel portfolyo sitesi | Next.js · Three.js · Lenis |
+| **Asistan** | Kişisel dijital ajanda ve verimlilik asistanı | Next.js 16 · Supabase |
+| **İkinci Beyin** | Obsidian vault + yapay zeka bellek sistemi | Python · Obsidian |
+| [**OpenCV**](https://github.com/Bahatti1856S/OpenCV) | Görüntü işleme ve bilgisayarlı görü çalışmaları | Python · OpenCV |
+| [**CMS Deneme**](https://cmsdeneme123.vercel.app) | İçerik yönetim sistemi denemesi | TypeScript |
+| **Color Palette** | Renk paleti oluşturucu | JavaScript |
+| **QR Kod** | QR kod oluşturucu | HTML · JS |
 
 ---
 
-### 📊 GitHub İstatistikleri
+### GitHub İstatistikleri
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bahatti1856S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -85,4 +85,4 @@
 
 ---
 
-<p align="center"><i>"Önce çalıştır, sonra güzelleştir."</i> ⚡</p>
+<p align="center"><i>"Önce çalıştır, sonra güzelleştir."</i></p>
